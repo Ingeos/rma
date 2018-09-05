@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: rma (8.0)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-12-03 04:18+0000\n"
-"PO-Revision-Date: 2016-12-23 08:32+0000\n"
+"POT-Creation-Date: 2017-05-03 07:57+0000\n"
+"PO-Revision-Date: 2017-05-11 14:12+0000\n"
 "Last-Translator: OCA Transbot <transbot@odoo-community.org>\n"
 "Language-Team: Spanish (http://www.transifex.com/oca/OCA-rma-8-0/language/es/)\n"
 "MIME-Version: 1.0\n"
@@ -338,7 +338,7 @@ msgstr ""
 #. module: crm_claim_rma
 #: selection:claim.line,priority:0
 msgid "High"
-msgstr ""
+msgstr "Alto"
 
 #. module: crm_claim_rma
 #: help:claim.line,message_summary:0 help:stock.move,message_summary:0
@@ -555,7 +555,7 @@ msgstr "Sin Stock"
 #. module: crm_claim_rma
 #: selection:claim.line,priority:0
 msgid "Normal"
-msgstr ""
+msgstr "Normal"
 
 #. module: crm_claim_rma
 #: selection:claim.line,priority:0
@@ -891,7 +891,7 @@ msgstr "Sub-estado"
 #. module: crm_claim_rma
 #: field:claim.line,message_summary:0 field:stock.move,message_summary:0
 msgid "Summary"
-msgstr ""
+msgstr "Resumen"
 
 #. module: crm_claim_rma
 #: selection:claim.line,applicable_guarantee:0
@@ -1011,7 +1011,7 @@ msgstr ""
 #. module: crm_claim_rma
 #: selection:claim.line,priority:0
 msgid "Very High"
-msgstr ""
+msgstr "Muy alto"
 
 #. module: crm_claim_rma
 #: field:crm.claim,warehouse_id:0

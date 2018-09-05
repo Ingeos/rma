@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: rma (8.0)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-10-27 11:45+0000\n"
-"PO-Revision-Date: 2016-11-29 09:33+0000\n"
+"POT-Creation-Date: 2017-05-13 06:36+0000\n"
+"PO-Revision-Date: 2017-05-19 14:16+0000\n"
 "Last-Translator: OCA Transbot <transbot@odoo-community.org>\n"
 "Language-Team: Croatian (http://www.transifex.com/oca/OCA-rma-8-0/language/hr/)\n"
 "MIME-Version: 1.0\n"
@@ -262,7 +262,7 @@ msgstr "Naziv "
 #. module: crm_claim_rma
 #: selection:claim.line,state:0
 msgid "Draft"
-msgstr ""
+msgstr "Skica"
 
 #. module: crm_claim_rma
 #: view:claim.line:crm_claim_rma.view_crm_claim_lines_filter
@@ -327,7 +327,7 @@ msgstr ""
 #. module: crm_claim_rma
 #: view:claim.line:crm_claim_rma.view_crm_claim_lines_filter
 msgid "Group By..."
-msgstr ""
+msgstr "Grupiraj po..."
 
 #. module: crm_claim_rma
 #: view:claim.line:crm_claim_rma.view_crm_claim_lines_filter
@@ -337,7 +337,7 @@ msgstr ""
 #. module: crm_claim_rma
 #: selection:claim.line,priority:0
 msgid "High"
-msgstr ""
+msgstr "Visoko"
 
 #. module: crm_claim_rma
 #: help:claim.line,message_summary:0 help:stock.move,message_summary:0
@@ -586,7 +586,7 @@ msgstr ""
 #. module: crm_claim_rma
 #: selection:claim.line,claim_origin:0
 msgid "Other"
-msgstr ""
+msgstr "Drugo"
 
 #. module: crm_claim_rma
 #: view:crm.claim:crm_claim_rma.crm_claim_rma_form_view
@@ -640,7 +640,7 @@ msgstr ""
 #: view:claim.line:crm_claim_rma.view_crm_claim_lines_filter
 #: field:claim.line,priority:0
 msgid "Priority"
-msgstr ""
+msgstr "Prioritet"
 
 #. module: crm_claim_rma
 #: help:claim.line,priority:0
@@ -890,7 +890,7 @@ msgstr ""
 #. module: crm_claim_rma
 #: field:claim.line,message_summary:0 field:stock.move,message_summary:0
 msgid "Summary"
-msgstr ""
+msgstr "Sažetak"
 
 #. module: crm_claim_rma
 #: selection:claim.line,applicable_guarantee:0
@@ -1010,7 +1010,7 @@ msgstr ""
 #. module: crm_claim_rma
 #: selection:claim.line,priority:0
 msgid "Very High"
-msgstr ""
+msgstr "Vrlo visoko"
 
 #. module: crm_claim_rma
 #: field:crm.claim,warehouse_id:0
